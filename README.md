@@ -1,7 +1,7 @@
 # Project: Cooperative Load Transport with group of Quadrotors
 Overview
 ---
-We address the problem of cooperative transportation of a cable-suspended payload by multiple quadrotors. This work based on the work which is maded by Kumar and Sreenath [1]. In the beginning, we determine the equations describing the dynamics of the system. Then we define the differentiall flatness of a dynamic system and determine the input vector of our system. 
+We address the problem of cooperative transportation of a cable-suspended payload by multiple quadrotors. This work based on the work which is maded by Kumar and Sreenath [1]. In the beginning, we determine the equations describing the dynamics of the system. Then we define the differentiall flatness of a dynamic system and determine the flat output vector of our system. 
 
 
 More text. Another citation.[^fn2]
