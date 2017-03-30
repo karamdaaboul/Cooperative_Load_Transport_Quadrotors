@@ -1,5 +1,5 @@
 # Cooperative Load Transport with group of Quadrotors
-We address the problem of cooperative transportation of a cable-suspended payload by multiple quadrotors. This work based on the work which is maded by Kumar and Sreenath[1]
+We address the problem of cooperative transportation of a cable-suspended payload by multiple quadrotors. This work based on the work which is maded by Kumar and Sreenath [1]
 
 More text. Another citation.[^fn2]
 
