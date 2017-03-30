@@ -8,11 +8,7 @@ Dynamic Model of a Group of Quadrotors with a Mass Punkt Load
 <img src="https://github.com/kaya2016/Cooperative_Load_Transport_Quadrotors/blob/master/QuadrotorsWithLoad.png" width="400">
 First we define the used notations:
 
-| Tables        | Symbols       | Definition  |
-| ------------- |:-------------:| ----------: |
-| col 3 is      | right-aligned | $1600       |
-| col 2 is      | centered      |   $12       |
-| zebra stripes | are neat      |    $1       |
+$ x = 4 $
 
 
 What is this? Yet *another* citation?[^fn3]
