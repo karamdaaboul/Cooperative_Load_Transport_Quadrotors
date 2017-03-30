@@ -6,8 +6,7 @@ We address the problem of cooperative transportation of a cable-suspended payloa
 Dynamic Model of a Group of Quadrotors with a Mass Punkt Load
 ---
 Inline-style: 
-![alt text](https://github.com/kaya2016/Cooperative_Load_Transport_Quadrotors/blob/master/QuadrotorsWithLoad.png" Logo Title 
-
+![alt text](./QuadrotorsWithLoad.png =100x20)
 
 More text. Another citation.[^fn2]
 
