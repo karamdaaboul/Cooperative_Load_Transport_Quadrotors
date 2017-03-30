@@ -5,8 +5,8 @@ We address the problem of cooperative transportation of a cable-suspended payloa
 
 Dynamic Model of a Group of Quadrotors with a Mass Punkt Load
 ---
-![drawing](https://github.com/kaya2016/Cooperative_Load_Transport_Quadrotors/blob/master/QuadrotorsWithLoad.png| width=48)
-More text. Another citation.[^fn2]
+![drawing](https://github.com/kaya2016/Cooperative_Load_Transport_Quadrotors/blob/master/QuadrotorsWithLoad.png =24x48)
+
 
 What is this? Yet *another* citation?[^fn3]
 
