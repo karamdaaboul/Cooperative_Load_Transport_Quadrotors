@@ -19,6 +19,7 @@ Functions
 `Loadpolt`: create a Loadd object   
 `DiffFlat`: determines the input vector and the state vector from the output vector  
 `CreatTraj`: creats optimal trajectory between two given way points  
+
 To start the program with the default value you can use the code:
 ```matlab
 step1
