@@ -15,12 +15,16 @@ This program requrirs no additional toolboxes
 
 Functions
 ---
-Quadpolt: create a quad object   
-Loadpolt: create a Loadd object   
-DiffFlat: determines the input vector and the state vector from the output vector  
-CreatTraj: creats optimal trajectory between two given way points  
+`Quadpolt`: create a quad object   
+`Loadpolt`: create a Loadd object   
+`DiffFlat`: determines the input vector and the state vector from the output vector  
+`CreatTraj`: creats optimal trajectory between two given way points  
+To start the program with the default value you can use the code:
+```matlab
+step1
+```
 
 
-
-
+References
+---
 [1]: K. Sreenath and V. Kumar. Dynamics, Control and Planning for Cooperative Manipulation of Payloads Suspended by Cables from Multiple Quadrotor Robots, 2013,  http://www.kumarrobotics.org/wp-content/uploads/2014/01/p11.pdf
