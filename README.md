@@ -15,16 +15,16 @@ This program requrirs no additional toolboxes
 
 Functions
 ---
-`Quadpolt`: create a quad object   
-`Loadpolt`: create a Loadd object   
+`Quadpolt`: creates an object to plot one of the quadrotor    
+`Loadpolt`: create an object to plot the Load    
 `DiffFlat`: determines the input vector and the state vector from the output vector  
-`CreatTraj`: creats optimal trajectory between two given way points  
+`CreatTraj`: creates optimal trajectory between two given way points  
+`PlotResults`: plots the results.
 
 To start the program with the default value you can use the code:
 ```matlab
 step1
 ```
-
 
 References
 ---
