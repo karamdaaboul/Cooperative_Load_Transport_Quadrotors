@@ -27,6 +27,6 @@ step1
 
 References
 ---
-[1]: K. Sreenath and V. Kumar. Dynamics, Control and Planning for Cooperative Manipulation of Payloads Suspended by Cables from Multiple Quadrotor Robots, 2013,  http://www.kumarrobotics.org/wp-content/uploads/2014/01/p11.pdf 
-[2]: D. Mellinger and V. Kumar. Minimum Snap Trajectory Generation and Control for Quadrotors,http://www-personal.acfr.usyd.edu.au/spns/cdm/papers/Mellinger.pdf  
-[3]: M.K. Daaboul. Kooperative Regelung von Quadrokoptern bei Berücksichtigung von Hindernissen und Kopplung,2017,# Project: Cooperative Load Transport with group of Quadrotors
+[1]: K. Sreenath and V. Kumar. Dynamics, Control and Planning for Cooperative Manipulation of Payloads Suspended by Cables from Multiple Quadrotor Robots, 2013,  http://www.kumarrobotics.org/wp-content/uploads/2014/01/p11.pdf   
+[2]: D. Mellinger and V. Kumar. Minimum Snap Trajectory Generation and Control for Quadrotors,http://www-personal.acfr.usyd.edu.au/spns/cdm/papers/Mellinger.pdf    
+[3]: M.K. Daaboul. Kooperative Regelung von Quadrokoptern bei Berücksichtigung von Hindernissen und Kopplung,2017 Unversity of Kassel
