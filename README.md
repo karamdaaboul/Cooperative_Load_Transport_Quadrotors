@@ -6,7 +6,7 @@ We address the problem of cooperative transportation of a cable-suspended payloa
 Dynamic Model
 ---
 <img src="https://github.com/kaya2016/Cooperative_Load_Transport_Quadrotors/blob/master/QuadrotorsWithLoad.png" width="400">
-The equation of motion and the definition of differential flatness are in the note book [2]:(https://github.com/kaya2016/Cooperative_Load_Transport_Quadrotors/blob/master/Cooperative_Load_Transport_with_group_of_Quadrotors.ipynb)
+The equation of motion and the definition of differential flatness are in the note book [2](https://github.com/kaya2016/Cooperative_Load_Transport_Quadrotors/blob/master/Cooperative_Load_Transport_with_group_of_Quadrotors.ipynb)
 
 Dependencies
 ---
